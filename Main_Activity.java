@@ -1,4 +1,4 @@
-package com.example.try1;
+package com.example.Calculator;
 
 import android.support.v7.app.AppCompatActivity;
 import org.mariuszgromada.math.mxparser.*;
